@@ -1,6 +1,7 @@
-# Analise de dados com Python 
-Este repositório foi criado para compartilhar conhecimento e recursos sobre análise de dados utilizando Python. Aqui, você encontrará uma variedade de materiais que abrangem diferentes aspectos da ciência de dados, incluindo:
-- Tratamento de Dados: Técnicas para limpar, transformar e preparar seus dados para análise.
-- Limpeza de Dados: Métodos para identificar e corrigir dados inconsistentes, incompletos ou incorretos.
-- Análise de Dados: Abordagens e ferramentas para explorar e obter insights valiosos a partir de seus dados.
-- Visualização de Dados: Ferramentas e técnicas para criar gráficos e dashboards que comunicam informações de maneira eficaz.
+# Data Analysis with Python
+This repository was created to share knowledge and resources on data analysis using Python. Here, you will find a variety of materials covering different aspects of data science, including:
+
+Data Handling: Techniques for cleaning, transforming, and preparing your data for analysis.
+Data Cleaning: Methods for identifying and correcting inconsistent, incomplete, or incorrect data.
+Data Analysis: Approaches and tools for exploring and gaining valuable insights from your data.
+Data Visualization: Tools and techniques for creating charts and dashboards that effectively communicate information.
